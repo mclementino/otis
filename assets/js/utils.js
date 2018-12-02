@@ -16,7 +16,7 @@ $(document).ready(function() {
 	
 	$('#carousel-hall').owlCarousel({
 		margin: 0,
-		autoplay: true,
+		autoplay: false,
 		nav: true,
 		responsive: {
 			0: {
@@ -35,7 +35,7 @@ $(document).ready(function() {
 	
 	$('#carousel-terreo').owlCarousel({
 		margin: 0,
-		autoplay: true,
+		autoplay: false,
 		nav: true,
 		responsive: {
 			0: {
