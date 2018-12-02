@@ -12,7 +12,7 @@
 					<input type="password" class="form-control form-control-shadow-dark" placeholder="Senha">
 				</div>
 				<div class="col-md-12 mb-30">
-					<input type="button" onclick="location.href='terreo.html';" value="entrar" class="botao botao-full-width">
+					<input type="button" onclick="location.href='terreo.php';" value="entrar" class="botao botao-full-width">
 				</div>
 				<div class="col-md-12">
 					<a href="#" class="login-link">Esqueci minha senha</a>
