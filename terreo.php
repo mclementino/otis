@@ -28,7 +28,7 @@
 					<div class="owl-carousel carousel-terreo" id="carousel-terreo">									
 						<div class="item terreo-item">						
 							<div class="terreo-left terreo-left-1">
-								<div class="terreo-placa">desafio</div>
+								<div class="terreo-placa">01</div>
 								<div class="terreo-media">
 									<img src="assets/imgs/clock.png" alt="">
 									3min
@@ -36,10 +36,10 @@
 								<div class="terreo-board color-1">
 									<span class="star-pontuation">+10</span>
 								</div>
-								<a href="#" class="botao botao-small-black">começar</a>
+								<a href="terreo-video.php" class="botao botao-small-black">começar</a>
 							</div>						
 							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit quis laboram.</h3>
+								<h3 class="terreo-title">Bem-vindo à  empresa que mais move pessoas no mundo!</h3>
 								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
 							</div>
 							<div class="clearfix"></div>
@@ -71,7 +71,7 @@
 								<div class="terreo-board color-1">
 									<span class="star-pontuation">+7</span>
 								</div>
-								<a href="#" class="botao botao-small-black">começar</a>
+								<a href="terreo-desafio.php" class="botao botao-small-black">começar</a>
 							</div>						
 							<div class="terreo-caption">
 								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit quis laboram.</h3>
@@ -88,7 +88,7 @@
 								<div class="terreo-board color-2">
 									<span class="board-check board-check-brown"></span>
 								</div>
-								<a href="#" class="botao botao-small-brown">rever</a>
+								<<a href="terreo-texto.php" class="botao botao-small-brown">rever</a>
 							</div>						
 							<div class="terreo-caption">
 								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit eius ad.</h3>

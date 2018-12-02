@@ -81,29 +81,29 @@
 						<li><a href="#">5</a></li>
 						<li><a href="#">2</a></li>
 						<li><a href="#">3</a></li>
-						<li><a href="#">T</a></li>
+						<li><a href="terreo.php">T</a></li>
 						<li><a href="#">1</a></li>
 						<li>
-							<a href="#"><img src="../assets/imgs/ico-hall.png" alt="" class="img-ico"></a>
+							<a href="hall.php"><img src="../assets/imgs/ico-hall.png" alt="" class="img-ico"></a>
 							hall
 						</li>
 						<li>
-							<a href="#"><img src="../assets/imgs/ico-lobby.png" alt="" class="img-ico"></a>
+							<a href="lobby.php"><img src="../assets/imgs/ico-lobby.png" alt="" class="img-ico"></a>
 							lobby
 						</li>						
 					</ul>
 					<img src="../assets/imgs/furos.png" alt="Furos" class="furos">										
 					<ul class="floors floors-md">
 						<li>
-							<a href="#"><img src="../assets/imgs/ico-ajuda.png" alt="" class="img-ico"></a>
+							<a href="faq.php"><img src="../assets/imgs/ico-ajuda.png" alt="" class="img-ico"></a>
 							ajuda
 						</li>
 						<li>
-							<a href="#"><img src="../assets/imgs/ico-star.png" alt="" class="img-ico"></a>
+							<a href="ranking.php"><img src="../assets/imgs/ico-star.png" alt="" class="img-ico"></a>
 							ranking
 						</li>
 						<li>
-							<a href="#"><img src="../assets/imgs/ico-sair.png" alt="" class="img-ico"></a>
+							<a href="login.php"><img src="../assets/imgs/ico-sair.png" alt="" class="img-ico"></a>
 							sair
 						</li>
 					</ul>

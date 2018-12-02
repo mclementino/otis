@@ -33,7 +33,10 @@
 								</div>
 								<div class="video-item">
 									<div class="embed-responsive embed-responsive-16by9">
-										<iframe width="560" height="315" src="https://www.youtube.com/embed/GSiEDgb9rNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
+										<video width="520" height="315" controls>
+										  <source src="/assets/videos/JULIO_abertura tema.mp4" type="video/mp4">
+										Your browser does not support the video tag.
+										</video><!--<iframe width="560" height="315" src="https://www.youtube.com/embed/GSiEDgb9rNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>-->
 									</div>
 								</div>
 								<div class="card-caption">
@@ -48,7 +51,7 @@
 											<span class="star-pontuation">+10</span>
 										</li>
 										<li>
-											<a href="#" class="botao botao-small-brown-2">quero meus pontos</a>											
+											<a href="terreo.php" class="botao botao-small-brown-2">quero meus pontos</a>											
 										</li>
 									</ul>
 									<div class="clearfix"></div>
