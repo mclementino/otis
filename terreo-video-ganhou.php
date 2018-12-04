@@ -40,12 +40,12 @@
 									</div>
 								</div>
 								<div class="card-caption">
-									<ul class="card-list">										
+									<!--<ul class="card-list">										
 										<li>você já ganhou</li>
 										<li>
 											<span class="star-pontuation">+10</span>
 										</li>
-									</ul>									
+									</ul>	-->								
 									<ul class="card-list">
 										<li>
 											<span class="star-pontuation">+10</span>

@@ -36,7 +36,7 @@
 								<div class="terreo-board color-1">
 									<span class="star-pontuation">+10</span>
 								</div>
-								<a href="terreo-video.php" class="botao botao-small-black">começar</a>
+								<a href="terreo-video-ganhou.php" class="botao botao-small-brown">rever</a>
 							</div>						
 							<div class="terreo-caption">
 								<h3 class="terreo-title">Bem-vindo à  empresa que mais move pessoas no mundo!</h3>
