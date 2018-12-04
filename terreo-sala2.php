@@ -24,32 +24,28 @@
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-md-2 col-sm-2 sala-right">
-							<span class="sala-number">sala 1</span>
+							<span class="sala-number">sala 2</span>
 						</div>
 						<div class="col-md-10 col-sm-10 sala-left">
-							<div class="card card-video">
-								<div class="card-caption-video">
-									<h2 class="card-title">Bem-vindo à  empresa que mais move pessoas no mundo!</h2>									
-								</div>
-								<div class="video-item">
-									<div class="embed-responsive embed-responsive-16by9">
-										<video width="520" height="315" controls>
-										  <source src="/assets/videos/JULIO_abertura tema.mp4" type="video/mp4">
-										Your browser does not support the video tag.
-										</video><!--<iframe width="560" height="315" src="https://www.youtube.com/embed/GSiEDgb9rNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>-->
-									</div>
-								</div>
+							<div class="card">
+								<figure class="card-media">
+									<img src="assets/imgs/card-figure.png" alt="" class="img-responsive">
+								</figure>
 								<div class="card-caption">
+									<h2 class="card-title">História da Otis</h2>
+									<p class="card-text">Maior companhia do mundo na fabricação e prestação de serviços em elevadores, escadas e esteiras rolantes, traduz confiança e comprometimento em seus produtos e serviços. Há mais de 160 anos, quando Elisha Graves Otis inventou o elevador de segurança, estava alterando para sempre a vida urbana das cidades. A modernização é resultado de inovação, design sustentável de seus produtos e prestação diferenciada de serviço. A Otis está presente em mais de 200 países e territórios e é responsável por manter cerca de 1.9 milhão de elevadores e escadas ao redor do mundo.</p>
 									<ul class="card-list">										
 										<li>você já ganhou</li>
 										<li>
 											<span class="star-pontuation">+10</span>
 										</li>
-									</ul>								
+									</ul>									
 									<ul class="card-list" style="margin-right:10px;">
-										
+										<!--<li>
+											<span class="star-pontuation">+10</span>
+										</li>-->
 										<li>
-											<a href="terreo-ganhou.php" class="botao botao-small-brown-2">fechar</a>											
+											<a href="terreo.php" class="botao botao-small-brown-2">fechar</a>											
 										</li>
 									</ul>
 									<div class="clearfix"></div>

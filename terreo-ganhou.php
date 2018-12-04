@@ -33,8 +33,8 @@
 									<img src="assets/imgs/clock.png" alt="">
 									3min
 								</div>
-								<div class="terreo-board color-1">
-									<span class="star-pontuation">+10</span>
+								<div class="terreo-board color-2">
+									<span class="board-check board-check-brown"></span>
 								</div>
 								<a href="terreo-video-ganhou.php" class="botao botao-small-brown">rever</a>
 							</div>						
@@ -46,53 +46,53 @@
 						</div>
 						<div class="item terreo-item">						
 							<div class="terreo-left terreo-left-2">
-								<div class="terreo-placa">03</div>
+								<div class="terreo-placa">02</div>
 								<div class="terreo-media">
 									<img src="assets/imgs/docs.png" alt="">								
 								</div>
 								<div class="terreo-board color-2">
 									<span class="board-check board-check-brown"></span>
 								</div>
-								<a href="#" class="botao botao-small-brown">rever</a>
+								<a href="terreo-sala2.php" class="botao botao-small-brown">rever</a>
 							</div>						
 							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit eius ad.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
+								<h3 class="terreo-title">História da Otis</h3>
+								<p class="terreo-text">Maior companhia do mundo na fabricação e prestação de serviços em elevadores, escadas e esteiras rolantes...</p>							
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<div class="item terreo-item">						
 							<div class="terreo-left terreo-left-1">
-								<div class="terreo-placa">desafio</div>
-								<div class="terreo-media">
+								<div class="terreo-placa">03</div>
+								<!--<div class="terreo-media">
 									<img src="assets/imgs/clock.png" alt="">
 									3min
-								</div>
+								</div>-->
 								<div class="terreo-board color-1">
 									<span class="star-pontuation">+7</span>
 								</div>
-								<a href="terreo-desafio.php" class="botao botao-small-black">começar</a>
+								<a href="terreo-sala3.php" class="botao botao-small-black">começar</a>
 							</div>						
 							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit quis laboram.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
+								<h3 class="terreo-title">Nosso negócio</h3>
+								<p class="terreo-text">A sustentabilidade, a segurança e a confiabilidade norteiam os produtos e serviços oferecidos pela Otis em todo o mundo.</p>							
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<div class="item terreo-item">						
 							<div class="terreo-left terreo-left-2">
-								<div class="terreo-placa">03</div>
+								<div class="terreo-placa">04</div>
 								<div class="terreo-media">
 									<img src="assets/imgs/docs.png" alt="">								
 								</div>
 								<div class="terreo-board color-2">
 									<span class="board-check board-check-brown"></span>
 								</div>
-								<<a href="terreo-texto.php" class="botao botao-small-brown">rever</a>
+								<<a href="terreo-sala4.php" class="botao botao-small-brown">rever</a>
 							</div>						
 							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit eius ad.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
+								<h3 class="terreo-title">A Otis no Mundo</h3>
+								<p class="terreo-text">A Otis possui mais de 68.000 funcionários ao redor do mundo, redefinindo o que significa ser líder da indústria e comprometidos com uma só missão: manter o mundo em movimento. Sua visão, nossa paixão. Somos dedicados a reinventar o modo como você se movimenta. </p>							
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -101,103 +101,16 @@
 								<div class="terreo-placa">desafio</div>
 								<div class="terreo-media">
 									<img src="assets/imgs/clock.png" alt="">
-									3min
+									2min
 								</div>
 								<div class="terreo-board color-1">
 									<span class="star-pontuation">+12</span>
 								</div>
-								<a href="#" class="botao botao-small-black">começar</a>
+								<a href="terreo-desafio.php" class="botao botao-small-black">começar</a>
 							</div>						
 							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit quis laboram.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="item terreo-item">						
-							<div class="terreo-left terreo-left-2">
-								<div class="terreo-placa">03</div>
-								<div class="terreo-media">
-									<img src="assets/imgs/docs.png" alt="">								
-								</div>
-								<div class="terreo-board color-2">
-									<span class="board-check board-check-brown"></span>
-								</div>
-								<a href="#" class="botao botao-small-brown">rever</a>
-							</div>						
-							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit eius ad.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="item terreo-item">						
-							<div class="terreo-left terreo-left-1">
-								<div class="terreo-placa">desafio</div>
-								<div class="terreo-media">
-									<img src="assets/imgs/clock.png" alt="">
-									3min
-								</div>
-								<div class="terreo-board color-1">
-									<span class="star-pontuation">+7</span>
-								</div>
-								<a href="#" class="botao botao-small-black">começar</a>
-							</div>						
-							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit quis laboram.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="item terreo-item">						
-							<div class="terreo-left terreo-left-2">
-								<div class="terreo-placa">05</div>
-								<div class="terreo-media">
-									<img src="assets/imgs/docs.png" alt="">								
-								</div>
-								<div class="terreo-board color-2">
-									<span class="board-check board-check-brown"></span>
-								</div>
-								<a href="#" class="botao botao-small-brown">rever</a>
-							</div>						
-							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit eius ad.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="item terreo-item">						
-							<div class="terreo-left terreo-left-1">
-								<div class="terreo-placa">desafio</div>
-								<div class="terreo-media">
-									<img src="assets/imgs/clock.png" alt="">
-									3min
-								</div>
-								<div class="terreo-board color-1">
-									<span class="star-pontuation">+10</span>
-								</div>
-								<a href="#" class="botao botao-small-black">começar</a>
-							</div>						
-							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit quis laboram.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="item terreo-item">						
-							<div class="terreo-left terreo-left-2">
-								<div class="terreo-placa">01</div>
-								<div class="terreo-media">
-									<img src="assets/imgs/docs.png" alt="">								
-								</div>
-								<div class="terreo-board color-2">
-									<span class="board-check board-check-brown"></span>
-								</div>
-								<a href="#" class="botao botao-small-brown">rever</a>
-							</div>						
-							<div class="terreo-caption">
-								<h3 class="terreo-title">Lorem ipsum dolor sit amet elit eius ad.</h3>
-								<p class="terreo-text">Explicabo ab nim quis laborum maiores labore quidem eius ad eum.</p>							
+								<h3 class="terreo-title">Somos a OTIS</h3>
+								<p class="terreo-text">Desafio (2 minutos)</p>							
 							</div>
 							<div class="clearfix"></div>
 						</div>

@@ -25,7 +25,7 @@
 						<input type="text" class="form-control form-control-shadow-light" placeholder="Comente...">
 					</div>
 					<div class="col-md-3 col-sm-3 col-xs-10 comment-botao">
-						<button type="submit" onclick="location.href='lobby-ok.php'" class="botao botao-full-width">Publicar</button>
+						<button type="submit" class="botao botao-full-width">Publicar</button>
 					</div>
 				</div>
 			</div>
@@ -37,6 +37,20 @@
 			
 			<div class="content content-3">
 					<div class="row comment comment-bottom">
+						<div class="media">
+							<div class="media-left media-left-comment">
+								<div class="comment-media">
+									<img src="assets/imgs/user.jpg" alt="" class="avatar-media-xs">
+									<div class="comment-star">3</div>
+								</div>
+							</div>
+							<div class="media-body">
+								<p class="comment-text">teste teste</p>
+								<h4 class="comment-autor">Leandro de Freitas Rodrigues</h4>
+								<h5 class="comment-time">1min atrás</h5>
+								<span class="comment-likes"><img src="assets/imgs/like.png" alt="">8</span>
+							</div>
+						</div>
 						<div class="media">
 							<div class="media-left media-left-comment">
 								<div class="comment-media">

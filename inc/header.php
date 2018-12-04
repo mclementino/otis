@@ -6,7 +6,7 @@
 	<!-- CSS -->
 	<link rel="stylesheet" href="/assets/dependencies/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/assets/dependencies/owlcarousel/dist/assets/owl.carousel.min.css">
-	<link rel="stylesheet" href="/assets/css/style.css">	
+	<link rel="stylesheet" href="/assets/css/style.css?a">	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <!-- FAVICON -->

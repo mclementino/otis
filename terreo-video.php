@@ -40,18 +40,18 @@
 									</div>
 								</div>
 								<div class="card-caption">
-									<ul class="card-list">										
+									<!--<ul class="card-list">										
 										<li>você já ganhou</li>
 										<li>
 											<span class="star-pontuation">+10</span>
 										</li>
-									</ul>									
+									</ul>-->									
 									<ul class="card-list">
 										<li>
 											<span class="star-pontuation">+10</span>
 										</li>
 										<li>
-											<a href="terreo.php" class="botao botao-small-brown-2">quero meus pontos</a>											
+											<a href="terreo-ganhou.php" class="botao botao-small-brown-2">quero meus pontos</a>											
 										</li>
 									</ul>
 									<div class="clearfix"></div>
